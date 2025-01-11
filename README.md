@@ -33,9 +33,9 @@ Feel free to reach out for collaboration or inquiries:
 ---
 
 ### 🎨 **Dynamic Image**
-
 <div align="center">
-  <img src="https://i.gifer.com/9LaN.gif ">
+  
+  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2p6G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">a través de GIFER</a></p>
 </div>
 
 A dynamic representation of a computer as a tribute to the seamless blend of art and code.

@@ -1,6 +1,6 @@
 # 🌟 **The Journey from Decoration to Code** 🌟
 
-## 💻 **A Woman Who Revolutionized the World**
+## 💻 **A Woman Who is going to revolutionizethe World**
 
 In a bold leap of faith, a trailblazing entrepreneur transformed her passion for interior design into a career in programming. Combining creativity and logic, she now develops innovative solutions that bring beauty and functionality to the digital realm. This repository celebrates her inspiring journey and showcases her work.
 
@@ -25,7 +25,7 @@ Below are the key technologies and tools featured in this repository:
 Feel free to reach out for collaboration or inquiries:
 
 - Email: emagmunioz@gmail.com
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_icon.svg" alt="Email Icon" width="20" height="20">
+
 
 - LinkedIn: (https://www.linkedin.com/in/eva-m-g-munioz/  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20">
@@ -35,7 +35,7 @@ Feel free to reach out for collaboration or inquiries:
 ### 🎨 **Dynamic Image**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Dynamic+Computer+Image" alt="Dynamic Computer Image" width="400" height="200">
+  <img src="https://i.gifer.com/9LaN.gif ">
 </div>
 
 A dynamic representation of a computer as a tribute to the seamless blend of art and code.

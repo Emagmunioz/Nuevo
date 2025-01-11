@@ -1,6 +1,6 @@
 # 🌟 **The Journey from Decoration to Code** 🌟
 
-## 💻 **A Woman Who is going to revolutionizethe World**
+## 💻 **A Woman Who is going to revolutionize the World**
 
 In a bold leap of faith, a trailblazing entrepreneur transformed her passion for interior design into a career in programming. Combining creativity and logic, she now develops innovative solutions that bring beauty and functionality to the digital realm. This repository celebrates her inspiring journey and showcases her work.
 
@@ -32,13 +32,13 @@ Feel free to reach out for collaboration or inquiries:
 
 ---
 
-### 🎨 **Dynamic Image**
+### 🎨 ** Image**
 <div align="center">
   
-  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2p6G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">a través de GIFER</a></p>
 </div>
 
-A dynamic representation of a computer as a tribute to the seamless blend of art and code.
+A  representation of a computer as a tribute to the seamless blend of art and code.
+![image](https://github.com/user-attachments/assets/47a7513a-8874-407b-bbea-ba89eb306b43)
 
 ---
 
